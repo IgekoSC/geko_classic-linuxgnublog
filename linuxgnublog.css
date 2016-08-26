@@ -1,6 +1,6 @@
 /*############################################# GENERAL ##########################################*/
 
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url("//fonts.googleapis.com/css?family=Lobster");
 
 a
 {
@@ -34,12 +34,12 @@ blockquote p
     font-weight: bold;
 }
 
-.top a 
+.top a
 {
     color: #222222;
 }
 
-.top a:hover 
+.top a:hover
 {
     color: #222222;
 }
@@ -189,8 +189,8 @@ article.post {
 }
 
 /*############################################# PAGINATION ############################################*/
-  
-.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover 
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover
 {
     z-index: 2;
     color: #FFF;
